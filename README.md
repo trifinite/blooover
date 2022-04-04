@@ -1,4 +1,5 @@
-![Blooover logo](/images/bloooverlogo_web.png)
+[![Blooover logo](/images/bloooverlogo_web.png)](https://trifinite.org/stuff/blooover/)
+
 # Blooover - The Bluetooth Hooover 
 
 This source code was written in 2004 as a MIDlet for Symbian phones supporting the JSR-082 Bluetooth API. It was a proof-of-concept tool showcasing certain Bluetooth vulnerabilities with certain handsets at the time.

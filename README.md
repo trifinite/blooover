@@ -1,4 +1,4 @@
-<a href="https://trifinite.org/stuff/blooover/" target="_blank"><img align="center" src="/images/bloooverlogo_web.png"/></a>
+<a href="https://trifinite.org/stuff/blooover/" target="_blank"><img align="top|right" src="/images/bloooverlogo_web.png"/></a>
 
 # Blooover - The Bluetooth Hooover 
 

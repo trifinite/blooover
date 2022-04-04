@@ -5,3 +5,5 @@ This source code was written in 2004 as a MIDlet for Symbian phones supporting t
 The vulnerabilities exploited in this application do most likely not exist anymore, or the devices exposing these vulnerabilities are off the market.
 
 The code in this repository is not maintained anymore!
+
+Find out more about the Blooover application on https://trifinite.org/stuff/blooover/

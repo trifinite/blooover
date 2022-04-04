@@ -6,4 +6,4 @@ The vulnerabilities exploited in this application do most likely not exist anymo
 
 The code in this repository is not maintained anymore!
 
-Find out more about the Blooover application on https://trifinite.org/stuff/blooover/
+Find out more about the Blooover application on https://trifinite.org/stuff/blooover/ and about its successor Blooover II on https://trifinite.org/stuff/bloooverii/

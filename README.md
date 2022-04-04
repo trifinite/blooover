@@ -1,4 +1,4 @@
-[![Blooover logo](/images/bloooverlogo_web.png)](https://trifinite.org/stuff/blooover/)
+<div style="text-align: center;">[![Blooover logo](/images/bloooverlogo_web.png)](https://trifinite.org/stuff/blooover/)</div>
 
 # Blooover - The Bluetooth Hooover 
 

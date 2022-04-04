@@ -1,4 +1,4 @@
-# Blooover - The Bluetooth Hooover
+# Blooover - The Bluetooth Hooover ![Blooover logo](/images/bloooverlogo_web.png)
 
 This source code was written in 2004 as a MIDlet for Symbian phones supporting the JSR-082 Bluetooth API. It was a proof-of-concept tool showcasing certain Bluetooth vulnerabilities with certain handsets at the time.
 
